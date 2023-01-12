@@ -1,5 +1,4 @@
 # Hi there 👋
-![](https://komarev.com/ghpvc/?username=alice0421)
 ![](https://img.shields.io/github/followers/alice0421?label=follow&logo=github&style=flat)
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
