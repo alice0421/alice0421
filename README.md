@@ -27,13 +27,13 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice0421&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alice0421&theme=nord_dark)
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alice0421&theme=github" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alice0421&theme=github" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alice0421&theme=nord_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alice0421&theme=nord_dark" />
 </p>
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alice0421&theme=github" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alice0421&theme=github&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alice0421&theme=nord_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alice0421&theme=nord_dark&utcOffset=8" />
 </p>
